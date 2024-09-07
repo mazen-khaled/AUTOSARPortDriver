@@ -6,7 +6,7 @@
  *
  * Description: Header file for Os Scheduler.
  *
- * Author: Mohamed Tarek
+ * Author: Mazen Khaled
  ******************************************************************************/
 
 #ifndef OS_H_
