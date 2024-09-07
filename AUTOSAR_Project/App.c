@@ -6,7 +6,7 @@
  *
  * Description: Source file for Application Tasks.
  *
- * Author: Mohamed Tarek
+ * Author: Mazen Khaled
  ******************************************************************************/
 
 #include "App.h"
