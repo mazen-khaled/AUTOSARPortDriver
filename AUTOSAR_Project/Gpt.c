@@ -6,7 +6,7 @@
  *
  * Description: Source file for TM4C123GH6PM Microcontroller - SysTick Timer Driver.
  *
- * Author: Mohamed Tarek
+ * Author: Mazen Khaled
  ******************************************************************************/
 
 #include "Gpt.h"
