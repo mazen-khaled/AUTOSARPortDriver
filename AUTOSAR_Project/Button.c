@@ -6,7 +6,7 @@
  *
  * Description: Source file for Button Module.
  *
- * Author: Mohamed Tarek
+ * Author: Mazen Khaled
  ******************************************************************************/
 #include "Dio.h"
 #include "Port.h"
